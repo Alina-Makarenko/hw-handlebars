@@ -1,2 +1,18 @@
+ul {
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
 
+.item {
+  flex-basis: calc((100% -60px) /3);
+  outline: 1px solid gold;
+  padding: 20px;
+  box-shadow: 2px 2px 5px 5px gray;
+}
 /*# sourceMappingURL=hw-handlebars.2cdaf7bc.css.map */
