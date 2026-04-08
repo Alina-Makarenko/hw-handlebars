@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 1500,
+    "description": "A high-performance laptop for all your needs."
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 700,
+    "description": "A modern smartphone with an excellent camera."
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 200,
+    "description": "Noise-cancelling headphones for better focus."
+  },
+  {
+    "id": 4,
+    "name": "Tablet",
+    "price": 600,
+    "description": "A lightweight tablet perfect for work and entertainment."
+  },
+  {
+    "id": 5,
+    "name": "Smartwatch",
+    "price": 300,
+    "description": "A stylish smartwatch with fitness tracking features."
+  },
+  {
+    "id": 6,
+    "name": "Keyboard",
+    "price": 100,
+    "description": "Mechanical keyboard with customizable RGB lighting."
+  },
+  {
+    "id": 7,
+    "name": "Mouse",
+    "price": 50,
+    "description": "Ergonomic wireless mouse for everyday use."
+  },
+  {
+    "id": 8,
+    "name": "Monitor",
+    "price": 400,
+    "description": "27-inch 4K monitor with vibrant colors."
+  },
+  {
+    "id": 9,
+    "name": "Speaker",
+    "price": 150,
+    "description": "Portable Bluetooth speaker with deep bass."
+  },
+  {
+    "id": 10,
+    "name": "Webcam",
+    "price": 120,
+    "description": "HD webcam for video calls and streaming."
+  },
+  {
+    "id": 11,
+    "name": "External Hard Drive",
+    "price": 180,
+    "description": "1TB external storage for backups and files."
+  },
+  {
+    "id": 12,
+    "name": "Power Bank",
+    "price": 60,
+    "description": "Fast-charging power bank for mobile devices."
+  }
+]
